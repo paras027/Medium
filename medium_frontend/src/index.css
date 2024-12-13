@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* In your CSS file */
+.countdown span {
+    --value: 15;
+  }
+  
